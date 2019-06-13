@@ -1,0 +1,6 @@
+framework module Pods_javaJobs {
+  umbrella header "Pods-javaJobs-umbrella.h"
+
+  export *
+  module * { export * }
+}
